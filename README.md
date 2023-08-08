@@ -1,2 +1,2 @@
 # SNP
-This is fo our SNP lectures 
+This is for our SNP lectures 
